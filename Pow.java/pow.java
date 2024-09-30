@@ -18,8 +18,5 @@ class pow{
         Double Res= me.Power(x,n);
         System.out.println("the result is:" +Res);
 
-
-
-
     }
 }
